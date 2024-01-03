@@ -1,0 +1,10 @@
+C:\Users\VD\source\repos\lab61\lab61\bin\Debug\lab61.exe.config
+C:\Users\VD\source\repos\lab61\lab61\bin\Debug\lab61.exe
+C:\Users\VD\source\repos\lab61\lab61\bin\Debug\lab61.pdb
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.csprojAssemblyReference.cache
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.Form1.resources
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.Properties.Resources.resources
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.csproj.GenerateResource.cache
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.csproj.CoreCompileInputs.cache
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.exe
+C:\Users\VD\source\repos\lab61\lab61\obj\Debug\lab61.pdb
